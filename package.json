@@ -1,0 +1,25 @@
+{
+  "name": "grunt-gulp-comparison",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "gulp": "~3.5.2"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "0.0.6",
+    "gulp-minify-css": "~0.3.0",
+    "gulp-concat": "~2.1.7",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-autoprefixer": "~0.6.5",
+    "time-grunt": "~0.2.9",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.2"
+  }
+}
